@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451056813120",
+    "project_id": "prohourassignment",
+    "storage_bucket": "prohourassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451056813120:android:efabb6dbbdc03b5fd9cba5",
+        "android_client_info": {
+          "package_name": "com.example.prhourassign"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNWlTTQp5mXoq1kOmZn4sm1Qsq4la8VF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
